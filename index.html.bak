@@ -12,7 +12,7 @@
 	<link rel="stylesheet" href="assets/css/leadmark.css">
 </head>
 <body data-spy="scroll" data-target=".navbar" data-offset="40" id="home">
-     
+
     <!-- page Navigation -->
     <nav class="navbar custom-navbar navbar-expand-md navbar-light fixed-top" data-spy="affix" data-offset-top="10">
         <div class="container">
@@ -78,7 +78,7 @@
          <h1 class="subtitle">Welcome to</h1>
 			
 			
-            <h1 class="title">Demo Society </h1>  
+            <h1 class="title">Jan Dhan kalyan Society </h1>  
         </div>  
         <div class="shape">
             <svg viewBox="0 0 1500 200">
@@ -135,7 +135,7 @@
                     <div class="card mb-4 mb-md-0">
                         <div class="card-body">
                             <small class="text-primary font-weight-bold">03</small>
-                            <h5 class="card-title mt-3">DemoSociety<h5>
+                            <h5 class="card-title mt-3">Jan Dhan Kalyan Society<h5>
                             <p class="mb-0">
 							
 							Write somthing in Society.
@@ -160,8 +160,8 @@
 		
                     <p> 
 
-             <h2>Welcome to DemoSociety</h2>
-DemoSociety 
+             <h2>Welcome to Jan Dhan kalyan Cooperative Urban Thrift & Credit Society Ltd.</h2>
+Jan Dhan kalyan Cooperative Urban Thrift & Credit Society Ltd. 
 is a government-registered savings and credit cooperative society, established by Shri Ram Bahal Singh Chauhan. 
 The Society is duly registered under the Delhi Cooperative Societies Act, 2003, with Registration No. 10508,
  and was officially registered on 13th November 2017 by the Registrar of Cooperative Societies, Delhi.
